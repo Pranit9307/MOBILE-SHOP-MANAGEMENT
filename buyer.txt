@@ -1,0 +1,13 @@
+Buyer Name: pranit
+Buyer Mobile Number: 929292
+Buyer Address: kdkdkdkkd
+Date of Purchase: 2
+Brand: IPhone
+Model: 12
+Price (INR): 49000
+Payment Type: cash
+Down Payment (INR): 49000
+Amount Payable per Month: N/A (Cash payment)
+Number of Months: N/A (Cash payment)
+******************************************
+
